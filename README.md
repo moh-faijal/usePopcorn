@@ -10,3 +10,7 @@ Developed a dynamic and interactive web application that allows users to search 
 - **Search Functionality:** Implemented a robust search feature enabling users to find movies by title, genre, or keywords, improving the app's usability.
 - **Watch List Management:** Developed features for adding movies to a watch list, rating movies, and removing them from the watch list, providing a personalized user experience.
 - **Performance Optimization:** Optimized the application for performance, ensuring fast load times and smooth user interactions even with large data sets.
+![image](https://github.com/moh-faijal/usePopcorn/assets/112173810/60d9f2ad-dd9f-4ea0-9ae4-532799918090)
+![image](https://github.com/moh-faijal/usePopcorn/assets/112173810/fa9ab666-237f-4b6d-95a2-d18112eb643f)
+
+
